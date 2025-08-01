@@ -1,9 +1,9 @@
 output "public_id" {
-  value = aws_instance.this.public_id
+  value = module.ec2.public_id
 }
 output "private_id" {
-  value = aws_instance.this.private_id
+  value = module.ec2.private_id
 }
 output "name" {
-  value = aws_instance.this.id # instance_id error not as per formate so 
+  value = module.ec2.id # instance_id error not as per formate so 
 }
