@@ -131,16 +131,3 @@ Just pass different variables — no need to re-code EC2 logic again.
 
 
 
-## 🙌 Author
-
-> Created with 💻 + ☁️ +  by \[https://github.com/MAHALAKSHMImahalakshmi/]
-
-
-
-```
-
-Would you like me to:
-- Replace `your-username`, `your-profile`, and `your.email@example.com` with your actual GitHub, LinkedIn, and email?
-- Add a `terraform.tfvars` example section?
-Let me know and I’ll update it!
-```
