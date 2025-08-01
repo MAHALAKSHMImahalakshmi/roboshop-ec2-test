@@ -1,9 +1,11 @@
-output "public_id" {
-  value = module.ec2.public_id
+output "pub_ip" {
+    value = module.ec2.public_ip
 }
-output "private_id" {
-  value = module.ec2.private_id
+
+output "private_ip" {
+    value = module.ec2.private_ip
 }
-output "name" {
-  value = module.ec2.id # instance_id error not as per formate so 
+
+output "instance_id" {
+    value = module.ec2.instance_id
 }
