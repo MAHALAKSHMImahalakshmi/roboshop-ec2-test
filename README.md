@@ -136,4 +136,4 @@ Just pass different variables — no need to re-code EC2 logic again.
 
 - Inspired by the innovative **Roboshop microservices architecture and design patterns**.  
 - Automation logic, validation design, and documentation crafted by [**Mahalakshmi**](https://github.com/MAHALAKSHMImahalakshmi) 💻
->>>>>>> d5c9504ee819b68731ae61da0e61a8d76f881315
+
