@@ -1,7 +1,7 @@
 output "public_id" {
   value = aws_instance.this.public_id
 }
-output "public_id" {
+output "private_id" {
   value = aws_instance.this.private_id
 }
 output "name" {
