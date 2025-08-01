@@ -7,7 +7,7 @@ variable "instance_type" {
 
 variable "sg_id" {
   type = list
-  default = ["sgr-04c8cf950f79b1680"]
+  default = ["sg-0aa5c38e0976442ad"]
 }
 
 variable "tags" {
