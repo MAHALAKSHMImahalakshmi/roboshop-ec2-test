@@ -129,5 +129,7 @@ Just pass different variables — no need to re-code EC2 logic again.
    * Instance ID
    * Private IP (if needed)
 
+## 🙏 Credits & Contact 💬🤗
 
-
+- Inspired by the innovative **Roboshop microservices architecture and design patterns**.  
+- Automation logic, validation design, and documentation crafted by [**Mahalakshmi**](https://github.com/MAHALAKSHMImahalakshmi) 💻
