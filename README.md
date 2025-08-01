@@ -123,7 +123,7 @@ Just pass different variables — no need to re-code EC2 logic again.
    ```bash
    terraform init
    terraform plan
-   terraform apply
+   terraform apply -auto-approve 
    ```
 
 5. View Outputs:
